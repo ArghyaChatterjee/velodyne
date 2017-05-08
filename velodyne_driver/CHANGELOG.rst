@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+1.3.0 (2017-05-08)
+------------------
 * add launch args to support multiple devices (`#108 <https://github.com/ros-drivers/velodyne/issues/108>`_)
 * Rearranged alphabetically.
 * Add more options in launch files.
