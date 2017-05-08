@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+1.3.0 (2017-05-08)
+------------------
 * velodyne_pointcloud: remove incorrect catkin_package() DEPENDS option (`#93 <https://github.com/ros-drivers/velodyne/issues/93>`_)
   This eliminates a CMake warning when building on Xenial.
 * Added an interface to set up raw data processing from a locally defined calibration file. This method is useful when processing data offline from a bag file, without starting any ros master
